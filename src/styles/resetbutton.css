@@ -1,0 +1,18 @@
+.reset {
+    padding: 15px 20px;
+    width: 100%;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.1s;
+}
+
+.reset:focus {
+    color: #ec38bc;
+    background-color: #262809;
+}
